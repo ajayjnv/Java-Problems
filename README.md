@@ -1,2 +1,2 @@
 # Java-Problems
-solving java Basic to Advanced problems
+solved code of java basic to advanced problems
